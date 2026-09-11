@@ -241,3 +241,6 @@ This repository serves as the official landing page for RaidenFTPD. The software
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://raidenftpd.com)
 
 **Get the most recent version of RaidenFTPD today!**
+
+---
+**Last updated:** 2026-09-11 05:24:42 UTC
