@@ -243,4 +243,4 @@ This repository serves as the official landing page for RaidenFTPD. The software
 **Get the most recent version of RaidenFTPD today!**
 
 ---
-**Last updated:** 2026-09-18 16:48:11 UTC
+**Last updated:** 2026-09-18 19:17:58 UTC
